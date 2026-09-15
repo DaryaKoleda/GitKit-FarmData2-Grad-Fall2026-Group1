@@ -83,7 +83,7 @@ As a reference, the basic steps for working with GitHub Flow are as follows:
   * [Clone] the _origin_ repository to your local machine.
   * Set the  _upstream_ remote for your local repository to point to the _upstream_ repository.
   * Create a _feature branch_ from the _main_ branch your local machine.
-  * Make the edits to the documentation or the code in your _feature branch_.
+  * Make the edits to the documentation or the code on your _feature branch_.
   * Commit your edits.
     * If the contribution reflects the work of multiple people, ensure that everyone receives attribution by [Creating a commit with multiple authors].
   * Pull the most recent _upstream_ version of the _main branch_.
